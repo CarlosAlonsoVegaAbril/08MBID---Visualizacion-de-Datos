@@ -1,0 +1,85 @@
+[
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"alpha\"",
+  "Column3": " \"value\": 15}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"alpha\"",
+  "Column3": " \"value\": 34}"
+ },
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"alpha2\"",
+  "Column3": " \"value\": 17}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"alpha2\"",
+  "Column3": " \"value\": 65}"
+ },
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"beta\"",
+  "Column3": " \"value\": 10}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"beta\"",
+  "Column3": " \"value\": 10}"
+ },
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"beta2\"",
+  "Column3": " \"value\": 40}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"beta2\"",
+  "Column3": " \"value\": 38}"
+ },
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"gamma\"",
+  "Column3": " \"value\": 5}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"gamma\"",
+  "Column3": " \"value\": 10}"
+ },
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"gamma2\"",
+  "Column3": " \"value\": 20}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"gamma2\"",
+  "Column3": " \"value\": 34}"
+ },
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"delta\"",
+  "Column3": " \"value\": 50}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"delta\"",
+  "Column3": " \"value\": 43}"
+ },
+ {
+  "[": "    {\"year\": 1991",
+  "Column2": " \"name\":\"delta2\"",
+  "Column3": " \"value\": 17}"
+ },
+ {
+  "[": "    {\"year\": 1992",
+  "Column2": " \"name\":\"delta2\"",
+  "Column3": " \"value\": 35}"
+ },
+ {
+  "[": "]"
+ }
+]
